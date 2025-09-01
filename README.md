@@ -1,1 +1,1 @@
-# tic-tac-toe-js# rock-paper-scissors
+# tic-tac-toe-js
